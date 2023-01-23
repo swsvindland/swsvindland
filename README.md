@@ -9,7 +9,7 @@ As a Software Engineer with experience in React, .NET, Flutter, and mobile app d
 *   🌍  I'm based in Arlington VA
 *   🖥️  See my portfolio at [svindland.dev](http://svindland.dev)
 *   ✉️  You can contact me at [swsvindland@gmail.com](mailto:swsvindland@gmail.com)
-*   🚀  I'm currently working on [WorkoutTrack](http://apps.apple.com/us/app/workouttrack-fitness-log/id6443969488)
+*   🚀  I'm currently working on [WorkoutTrack](https://workout-track.com/)
 *   🧠  I'm learning Ionic
 
 ### Skills 
