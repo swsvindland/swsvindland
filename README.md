@@ -10,7 +10,7 @@ As a Software Engineer with experience in React, .NET, Flutter, and mobile app d
 *   🖥️  See my portfolio at [svindland.dev](http://svindland.dev)
 *   ✉️  You can contact me at [swsvindland@gmail.com](mailto:swsvindland@gmail.com)
 *   🚀  I'm currently working on [WorkoutTrack](https://workout-track.com/)
-*   🧠  I'm learning Ionic
+*   🧠  I'm learning Ionic and TailwindCSS
 
 ### Skills 
 <p align="left">
